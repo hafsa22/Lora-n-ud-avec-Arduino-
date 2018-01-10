@@ -1,5 +1,5 @@
 # Lora-n-ud-avec-Arduino-et-LM35-
-######## pour le branchement :
+##### pour le branchement :
 on connect les pins SPI  de arduino avec les pins SPI de lora (inAir4) :
 MISO (pin 12 arduino ) ===> MISO 
 MOSI (pin 11 arduino ) ===> MOSI 
